@@ -1,0 +1,7 @@
+{
+  "name": "Yugal AI",
+  "description": "A high-end 'Looksmaxxing' and self-improvement app featuring face analysis, personalized grooming roadmaps, and neon-dark aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
